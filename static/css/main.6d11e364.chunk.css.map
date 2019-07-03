@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,gBAHE,iBAMF,CAHA,WACE,wBAEF,CAEA,cACE,qBAAsB,CACtB,iBACF","file":"main.6d11e364.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.post-list {\n  border: 5px solid rgb(167, 170, 11);\n  text-align: center;\n}\n\n.comment-list {\n  border: 1px solid blue;\n  text-align: center;\n}\n"]}
